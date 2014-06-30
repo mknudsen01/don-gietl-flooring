@@ -15,6 +15,7 @@ gem 'activerecord'
 gem 'rake'
 
 gem 'shotgun'
+gem 'carrierwave'
 
 group :test do
   gem 'shoulda-matchers'
